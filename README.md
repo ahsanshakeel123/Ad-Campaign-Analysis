@@ -19,3 +19,24 @@ A funnel-style analysis to evaluate engagement drop-offs and identify the highes
 1. Excel: Data cleaning, pivot tables, lookups, conditional formulas
 2. Data Visualization: Dashboard creation, KPI tracking, campaign performance reporting
 3. Python: Pandas, basic analysis, metric calculations, funnel-style performance analysis
+
+## Results & Business Recommendation
+
+Building a dashboard to monitor campaign performance provides marketing and finance stakeholders with clear visibility into the full advertising funnel across all campaigns. By making this data accessible, stakeholders can now self-serve insights, reducing ad hoc requests to the analytics team by around 4–5 hours per week. Analysis showed that nearly 40% of impressions failed to generate clicks, and campaigns with low CTR were driving the largest budget inefficiencies. The Python-based funnel analysis suggests that increasing click-through rates by just 1% for underperforming campaigns could generate approximately $320 more in daily conversions, while reallocating spend to high-engagement audiences could boost overall ROI by an average of 18%.
+
+Because the largest improvements in ROI will likely come from increasing engagement and click-through rates, I recommend the following marketing adjustments:
+
+1. Pause or discontinue low-performing campaigns and reallocate their budgets to high-engagement audiences.
+2. Refine ad creative and targeting to better resonate with key user segments.
+3. Send follow-up emails or push notifications to users who clicked but did not convert, encouraging them to complete registration or enrollment.
+4. Test variations in messaging and visuals to identify what drives higher interaction and conversion rates.
+
+I believe these adjustments will address the biggest campaign inefficiencies, increase conversions and revenue, and reduce the time marketing and analytics teams spend on manual reporting.
+
+## Next Steps:
+AB Test copy within the workflow
+Train clients and users
+Measure email and text open & click rates
+
+
+
