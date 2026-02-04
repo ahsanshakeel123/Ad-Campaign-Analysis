@@ -1,45 +1,21 @@
-# Ad Campaign Performance Analysis
+# Ad Campaign Performance Analysis for EdTech Platform
 
-This repository contains the code and documentation for an Ad Campaign Performance Analysis project I completed during my Data Analyst internship at Excelerate. The project involved analyzing marketing data to identify underperforming ad campaigns and provide recommendations for discontinuation.
+## Executive Summary:
+Marketing campaign efficiency has been declining for our EdTech platform, and we needed to identify underperforming campaigns and cost-saving opportunities. Using Excel, SQL concepts, and data visualization, I analyzed advertising performance data and built dashboards to track impressions, clicks, and conversions across campaigns. After identifying that the largest budget inefficiencies came from campaigns with high CPR and below-average CTR, I recommend the marketing and finance teams take the following actions to improve ROI:
 
-## Project Overview
+Discontinue low-performing campaigns
+Reallocate budget to high-engagement audiences
+Refine targeting and ad creative
 
-- **Objective**: To analyze ad campaign data and make data-driven recommendations for campaign optimization.
+## Business Problem:
+Successful ad campaigns are critical for this EdTech platform because they directly impact user acquisition and marketing spend efficiency. Marketing and finance stakeholders have observed that several campaigns are delivering lower performance than expected (based on impressions and reach versus clicks and unique link clicks). How can we identify where engagement is dropping across campaigns and make data-driven decisions to optimize spend and improve overall campaign effectiveness?
 
-- **Tools Used**: SQL, Python (pandas, matplotlib, numpy), Excel, Power BI.
+## Methodology:
+An Excel-based workflow that extracts, cleans, and structures marketing campaign data for analysis.
+A performance dashboard that tracks impressions, reach, clicks, and conversion metrics by campaign.
+A funnel-style analysis to evaluate engagement drop-offs and identify the highest-impact optimization opportunities.
 
-- **Data Source**: The dataset used for analysis is available in the "Data" folder.
-
-## Project Structure
-
-- **Data**: Contains the dataset used for analysis. You can find it in the "ad_campaign_data.csv" file.
-
-- **Analysis**: The Jupyter Notebook "Ad_Campaign_Analysis.ipynb" in this folder contains the code used for data analysis and visualization.
-
-- **Reports**: This folder includes the final report "Campaign_Analysis_Report.pdf" and presentation slides "Presentation_Slides.pptx."
-
-- **Results**: Visualizations and charts generated during the analysis are available here.
-
-- **Documentation**: Additional project documentation, such as a data dictionary or notes, can be found here.
-
-## How to Use
-
-To reproduce the analysis and visualize the results:
-
-1. Clone this repository to your local machine.
-2. Install the necessary dependencies listed in "requirements.txt."
-3. Open and run the Jupyter Notebook "Ad_Campaign_Analysis.ipynb."
-
-Feel free to reach out if you have any questions or would like to collaborate on this project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this code as long as you provide proper attribution and follow the terms of the license.
-
-## Contributors
-
-- Ishank verma(mailto:Ishank2610@gmail.com) - Data Analyst and Project Lead
-
-We welcome contributions and feedback from the community. If you'd like to contribute or report issues, please refer to our [Contribution Guidelines](Contribute.md).
-
-Thank you for exploring our Ad Campaign Performance Analysis project!
+## Skills:
+1. Excel: Data cleaning, pivot tables, lookups, conditional formulas
+2. Data Visualization: Dashboard creation, KPI tracking, campaign performance reporting
+3. Python: Pandas, basic analysis, metric calculations, funnel-style performance analysis
